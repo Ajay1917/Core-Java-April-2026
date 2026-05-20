@@ -38,6 +38,13 @@ public class DatatypesTwo {
 		boolean isGraduate = true;
 		System.out.println("Boolean : isGraduate");
 		System.out.println(isGraduate);
+		
+		//String -> non-primitive datatype -> words, statements and alpha-numeric
+		String st = "Today is Friday...";
+		System.out.println("String : st");
+		System.out.println(st);
+		
+		
 	}
 
 }
